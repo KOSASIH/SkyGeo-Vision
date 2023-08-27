@@ -1,6 +1,9 @@
 # SkyGeo-Vision
 Elevate your exploration with aerospace image recognition. Uncover Earth's geography through satellite images, identifying landmarks, mountains, and urban areas. 
-Introducing "SkyGeo Vision" – Your Window to Earth's Aerial Wonders!
+
+# Introducing 
+
+**"SkyGeo Vision"** – Your Window to Earth's Aerial Wonders!
 
 Embark on a thrilling journey through the skies and explore Earth's captivating landscapes like never before with SkyGeo Vision, the ultimate aerospace app powered by the cutting-edge Clarifai platform. Unleash the power of image recognition technology to unravel the mysteries of our planet's geography from the comfort of your mobile device.
 
