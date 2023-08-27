@@ -5,6 +5,7 @@ Elevate your exploration with aerospace image recognition. Uncover Earth's geogr
  - [Introducting](#introducing)
  - [Vision and Mission](#vision-and-mission)
  - [Our Technologies](#our-technologies)
+ - [Problems We Hope To Solve](#problems-we-hope-to-solve)
 # Introducing 
 
 **"SkyGeo Vision"** – Your Window to Earth's Aerial Wonders!
@@ -52,3 +53,23 @@ At SkyGeo Vision, we harness the power of advanced technologies to create an unp
 7. **Educational Insights:** We incorporate educational elements into the app, providing users with opportunities to expand their geography knowledge. Through interactive quizzes, detailed descriptions, and interesting facts, users can enhance their understanding of Earth's geographical features.
 
 At SkyGeo Vision, our commitment to innovative technologies drives us to continuously enhance the way people explore and appreciate the beauty of our planet's landscapes.
+
+# Problems We Hope To Solve
+
+At SkyGeo Vision, we are dedicated to addressing several key challenges and providing solutions that enhance users' understanding and appreciation of Earth's landscapes:
+
+1. **Limited Accessibility to Aerial Views:** Many individuals lack the opportunity to experience aerial views of geographical features due to factors such as location, cost, or travel restrictions. Our app bridges this gap by bringing the excitement of aerospace exploration to anyone with a mobile device.
+
+2. **Lack of Contextual Information:** Traditional satellite images can often lack context and explanation. SkyGeo Vision aims to provide users with comprehensive information about identified landmarks, mountains, rivers, and urban areas, enriching the experience and fostering deeper connections with these features.
+
+3. **Difficulty in Geography Learning:** Geography education can sometimes be dry and detached from real-world experiences. Our app offers an engaging and interactive way for users to learn about different regions, ecosystems, and landmarks, making geography education more exciting and memorable.
+
+4. **Isolation of Aerospace Enthusiasts:** Individuals interested in aerospace exploration might feel isolated without a platform to connect with like-minded individuals. SkyGeo Vision's community integration feature enables enthusiasts to share their findings, learn from others, and engage in discussions, fostering a sense of belonging.
+
+5. **Overwhelming Amount of Data:** The abundance of satellite imagery and geographical data can be overwhelming for users trying to decipher it all. Our image recognition technology streamlines this process by instantly identifying and categorizing features within images, making the information more accessible and manageable.
+
+6. **Missed Opportunities for Discovery:** In our fast-paced world, people may overlook the beauty and complexity of Earth's landscapes. SkyGeo Vision encourages users to explore their surroundings and discover hidden gems, promoting a renewed sense of curiosity and appreciation for the natural world.
+
+7. **Difficulty in Sharing Discoveries:** Sharing exciting findings from satellite images can be challenging without a user-friendly platform. SkyGeo Vision's easy sharing features enable users to showcase their discoveries, fostering excitement and conversations around these findings.
+
+By addressing these challenges, SkyGeo Vision aims to inspire users to see the world from a different perspective, learn about its intricacies, and engage with a community of fellow explorers who share a passion for aerospace discovery.
