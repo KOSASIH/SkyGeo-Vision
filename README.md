@@ -4,7 +4,7 @@ Elevate your exploration with aerospace image recognition. Uncover Earth's geogr
 # Contents
  - [Introducting](#introducing)
  - [Vision and Mission](#vision-and-mission)
- - 
+ - [Our Technologies](#our-technologies)
 # Introducing 
 
 **"SkyGeo Vision"** – Your Window to Earth's Aerial Wonders!
@@ -32,3 +32,23 @@ Download SkyGeo Vision today and embark on an aerial adventure that will forever
 **Vision:** Our vision at SkyGeo Vision is to revolutionize the way people engage with Earth's landscapes. We strive to provide a dynamic platform that leverages aerospace image recognition to connect users with the wonders of our planet from a unique perspective.
 
 **Mission:** Our mission is to empower individuals with the tools to explore, learn, and appreciate the intricate details of Earth's geography. Through cutting-edge technology and curated insights, we aim to foster a global community of passionate explorers who share a deep appreciation for the diverse and captivating features that define our world.
+
+# Our Technologies
+
+At SkyGeo Vision, we harness the power of advanced technologies to create an unparalleled aerospace exploration experience:
+
+1. **Clarifai Image Recognition:** Our app's core technology is built upon the Clarifai platform, which employs state-of-the-art image recognition algorithms. This enables us to accurately identify and label geographical features within satellite images, bringing a new dimension to how users perceive the Earth's landscapes.
+
+2. **Satellite Imagery:** We leverage high-resolution satellite imagery sourced from reputable providers to offer users a bird's-eye view of Earth's diverse terrain. This imagery forms the foundation for our image recognition capabilities, allowing users to uncover hidden details that might otherwise go unnoticed.
+
+3. **Curated Database:** Our curated database combines data from various sources, offering users not only real-time insights but also historical and contextual information about the identified geographical features. This comprehensive approach enriches the user experience and enhances their understanding of the world around them.
+
+4. **User-Friendly Interface:** We prioritize user experience by designing an intuitive interface that simplifies navigation and interaction. Our interface ensures that users of all technical backgrounds can seamlessly engage with the app, making the aerospace exploration accessible to a wider audience.
+
+5. **Community Integration:** Our app fosters a sense of community by allowing users to connect, share, and learn from each other. This social dimension enhances engagement and provides a platform for users to discuss their discoveries, exchange tips, and challenge their geography knowledge.
+
+6. **Cloud Infrastructure:** To support the real-time image recognition and database access, we utilize robust cloud infrastructure. This ensures quick and reliable responses to user queries and keeps the app up-to-date with the latest information.
+
+7. **Educational Insights:** We incorporate educational elements into the app, providing users with opportunities to expand their geography knowledge. Through interactive quizzes, detailed descriptions, and interesting facts, users can enhance their understanding of Earth's geographical features.
+
+At SkyGeo Vision, our commitment to innovative technologies drives us to continuously enhance the way people explore and appreciate the beauty of our planet's landscapes.
