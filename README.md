@@ -1,6 +1,10 @@
 # SkyGeo-Vision
 Elevate your exploration with aerospace image recognition. Uncover Earth's geography through satellite images, identifying landmarks, mountains, and urban areas. 
 
+# Contents
+ - [Introducting](#introducing)
+ - [Vision and Mission](#vision-and-mission)
+ - 
 # Introducing 
 
 **"SkyGeo Vision"** – Your Window to Earth's Aerial Wonders!
@@ -22,3 +26,9 @@ Embark on a thrilling journey through the skies and explore Earth's captivating 
 Download SkyGeo Vision today and embark on an aerial adventure that will forever change the way you see our planet. Uncover the beauty, diversity, and complexity of Earth's landscapes with the power of Clarifai's image recognition technology. Explore, learn, and be captivated by the world from above.
 
 *Note: SkyGeo Vision requires an active internet connection for image recognition and content updates.*
+
+# Vision and Mission
+
+**Vision:** Our vision at SkyGeo Vision is to revolutionize the way people engage with Earth's landscapes. We strive to provide a dynamic platform that leverages aerospace image recognition to connect users with the wonders of our planet from a unique perspective.
+
+**Mission:** Our mission is to empower individuals with the tools to explore, learn, and appreciate the intricate details of Earth's geography. Through cutting-edge technology and curated insights, we aim to foster a global community of passionate explorers who share a deep appreciation for the diverse and captivating features that define our world.
