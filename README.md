@@ -40,7 +40,7 @@ Download SkyGeo Vision today and embark on an aerial adventure that will forever
 
 At SkyGeo Vision, we harness the power of advanced technologies to create an unparalleled aerospace exploration experience:
 
-1. **Clarifai Image Recognition:** Our app's core technology is built upon the Clarifai platform, which employs state-of-the-art image recognition algorithms. This enables us to accurately identify and label geographical features within satellite images, bringing a new dimension to how users perceive the Earth's landscapes.
+1. **Image Recognition:** This enables us to accurately identify and label geographical features within satellite images, bringing a new dimension to how users perceive the Earth's landscapes.
 
 2. **Satellite Imagery:** We leverage high-resolution satellite imagery sourced from reputable providers to offer users a bird's-eye view of Earth's diverse terrain. This imagery forms the foundation for our image recognition capabilities, allowing users to uncover hidden details that might otherwise go unnoticed.
 
